@@ -11,6 +11,6 @@ namespace Dominio
         void Adicionar(Cliente cliente);
         void Atualizar(Cliente cliente);
         void Apagar(Cliente cliente);
-        Cliente BuscarPorCodigo(int codigo);
+        Cliente BuscarPorCodigo(int  codigo);
     }
 }

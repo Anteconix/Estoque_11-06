@@ -12,6 +12,7 @@
         private string rg;
         private string apelido;
 
+
         // propriedades
         public int Codigo { get => codigo; set => codigo = value; }
         public string Nome { get => nome; set => nome = value; }

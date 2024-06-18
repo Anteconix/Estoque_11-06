@@ -9,7 +9,6 @@ namespace Dominio
     public class ClienteDTO
     {
         // atributos
-
         public int Codigo;
         public string Nome;
         public string Endereco;
